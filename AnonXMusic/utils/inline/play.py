@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
 		[
          InlineKeyboardButton(
-		 text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/+qYRBJgZsARpkNWJl?startgroup=true"
+		 text="🕸️𝘛𝘈𝘗 𝘛𝘖 𝘚𝘌𝘌 𝘔𝘈𝘎𝘐𝘊🕸️", url=f"https://t.me/+qYRBJgZsARpkNWJl?startgroup=true"
 	 ),
         ],
         [
          InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/AVENGERS_NET_CHAT"
+                text="𝖴𝘗𝘋𝘈𝘛𝘌𝘚📢", url=f"https://t.me/Avengers_net_work"
             ),
             InlineKeyboardButton(
-                text="🍁𝘿𝙀𝙎𝙏𝙍𝙊𝙔𝙀𝙍🍃", url=f"https://t.me/ll_Destroyer_of_worldd_ll"
+                text="🍁𝘋𝘌𝘚𝘛𝘙𝘖𝘠𝘌𝘙🍃", url=f"https://t.me/ll_Destroyerr_ll"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -81,10 +81,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/AVENGERS_NET_CHAT"
+                text="𝘜𝘗𝘋𝘈𝘛𝘌𝘚📢", url=f"https://t.me/Avengers_net_work"
             ),
             InlineKeyboardButton(
-                text="🍁𝘿𝙀𝙎𝙏𝙍𝙊𝙔𝙀𝙍🍃", url=f"https://t.me/ll_Destroyer_of_worldd_ll"
+                text="🍁𝘋𝘌𝘚𝘛𝘙𝘖𝘠𝘌𝘙🍃", url=f"https://t.me/ll_Destroyerr_ll"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
