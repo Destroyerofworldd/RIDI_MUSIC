@@ -19,16 +19,20 @@
 <p align="center">
   <img src="https://telegra.ph/file/871396f7c04c16c07ed7e.jpg">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Destroyerofworldd/RIDI_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - Get your [Necessary Variables](https://github.com/MISH0009/ShivXMusic/blob/master/sample.env)
 - Upgrade and Update by :
@@ -55,6 +59,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
